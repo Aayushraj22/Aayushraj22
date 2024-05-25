@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayush Raj</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate Frontend Developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushraj22&label=Profile%20views&color=0e75b6&style=flat" alt="aayushraj22" /> </p>
-
-- 🌱 I’m currently learning **Backend**
+- 🌱 I am enhancing my skills in **Backend Technology**.
 
 - 👨‍💻 All of my projects are available at [ayushrajgupta-portfolio.netlify.app/](ayushrajgupta-portfolio.netlify.app/)
 
-- 💬 Ask me about **javascript, Html, Css, React**
-
-- 📫 How to reach me **aygupta9334@gmail.com**
+- 💬 Ask me about **HTML, CSS, Javascript, React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +18,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushraj22&show_icons=true&locale=en&layout=compact" alt="aayushraj22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushraj22&show_icons=true&locale=en" alt="aayushraj22" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aayushraj22&show_icons=true&locale=en" alt="aayushraj22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushraj22&" alt="aayushraj22" /></p>
