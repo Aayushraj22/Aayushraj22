@@ -1,32 +1,48 @@
-<h1 align="center">Hi 👋, I'm Ayush Raj</h1>
-<h3 align="center">A passionate Frontend Developer from India.</h3>
+<h1 align="center">Hi there! I'm Ayush Raj.</h1>
+<h3 align="center">🖋️ Aspiring FullStack Developer and Passionate Learner from India.</h3>
 
-- 🌱 I am enhancing my skills in **Backend Technology**.
+- 🌱 Continuously honing my skills in **Backend Technology**.
+- 👨‍💻 Check out [my portfolio](ayushrajgupta-portfolio.netlify.app/)
+- 💬 Feel free to reach out about **HTML, CSS, JavaScript, React**
 
-- 👨‍💻 All of my projects are available at [ayushrajgupta-portfolio.netlify.app/](ayushrajgupta-portfolio.netlify.app/)
-
-- 💬 Ask me about **HTML, CSS, Javascript, React**
-
-<h2 align="center">Connect with me:</h3>
-
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-raj-5760b61a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-raj-5760b61a1/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ayush_raj_22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ayush_raj_22/" height="30" width="40" /></a>
-</p>
+<h2 align='center'>Connect with me:</h3>
+<div align='center'>
+  
+  [![Static Badge](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&logoColor=blue&logoSize=auto&labelColor=white&color=blue&cacheSeconds=3600)](https://www.linkedin.com/in/ayush-raj-5760b61a1/)
+  [![Static Badge](https://img.shields.io/badge/leetcode-white?style=flat-square&logo=leetcode&logoColor=yellow&logoSize=auto&labelColor=white&color=navy&cacheSeconds=3600)](https://leetcode.com/u/Ayush_Raj_22/)
+  
+</div>
 <br/>
 
-<h2 align="center">Tech Stack I am Familiar With:</h3>
-<p align="center"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" > 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h2 align='center'>Tech Stack I am Familiar With:</h3>
+<div align='center'>
+  
+  [![Static Badge](https://img.shields.io/badge/javascript-white?style=flat-square&logo=javascript&logoColor=yellow&logoSize=auto&labelColor=white&color=yellow&cacheSeconds=3600)](https://javascript.info)
+  [![Static Badge](https://img.shields.io/badge/react-blue?style=flat-square&logo=react&logoColor=blue&logoSize=auto&labelColor=white&color=blue&cacheSeconds=3600)](https://react.dev)
+  [![Static Badge](https://img.shields.io/badge/nodejs-green?style=flat-square&logo=nodedotjs&logoColor=darkGreen&logoSize=auto&labelColor=white&color=darkGreen&cacheSeconds=3600)](https://nodejs.org)
+  [![Static Badge](https://img.shields.io/badge/express-white?style=flat-square&logo=express&logoColor=black&logoSize=auto&labelColor=white&color=black&cacheSeconds=3600)](https://expressjs.com/)
+  [![Static Badge](https://img.shields.io/badge/html5-orange?style=flat-square&logo=html5&logoColor=orange&logoSize=auto&labelColor=white&color=orange&cacheSeconds=3600)](https://www.w3schools.com/html/)
+  
+  [![Static Badge](https://img.shields.io/badge/tailwindcss-white?style=flat-square&logo=tailwindcss&logoColor=cyan&logoSize=auto&labelColor=white&color=cyan&cacheSeconds=3600)](https://tailwindcss.com/)
+  [![Static Badge](https://img.shields.io/badge/bootstraph-purple?style=flat-square&logo=bootstrap&logoSize=auto&labelColor=white&color=purple&cacheSeconds=3600)](https://getbootstrap.com/)
+  [![Static Badge](https://img.shields.io/badge/css-blue?style=flat-square&logo=css3&logoColor=blue&logoSize=auto&labelColor=white&color=blue&cacheSeconds=3600)](https://www.w3schools.com/css/)
+  
+  [![Static Badge](https://img.shields.io/badge/mongodb-darkgreen?style=flat-square&logo=mongodb&logoColor=darkgreen&logoSize=auto&labelColor=white&color=darkgreen&cacheSeconds=3600)](https://www.mongodb.com/)
+  [![Static Badge](https://img.shields.io/badge/firebase-yellow?style=flat-square&logo=firebase&logoColor=yellow&logoSize=auto&labelColor=white&color=dodgerblue&cacheSeconds=3600)](https://firebase.google.com/)
+  [![Static Badge](https://img.shields.io/badge/mysql-navy?style=flat-square&logo=mysql&logoColor=navy&logoSize=auto&labelColor=white&color=navy&cacheSeconds=3600)](https://www.mysql.com/)
+  
+  [![Static Badge](https://img.shields.io/badge/cpp-blue?style=flat-square&logo=cplusplus&logoColor=blue&logoSize=auto&labelColor=white&color=blue&cacheSeconds=3600)](https://cplusplus.com/)
+  [![Static Badge](https://img.shields.io/badge/git-orange?style=flat-square&logo=git&logoColor=orange&logoSize=auto&labelColor=white&color=orange&cacheSeconds=3600)](https://git-scm.com/)
+  [![Static Badge](https://img.shields.io/badge/postman-orangered?style=flat-square&logo=postman&logoColor=orangered&logoSize=auto&labelColor=white&color=orangered&cacheSeconds=3600)](https://www.postman.com/)
+  
+</div>
 <br/>
 <br/>
 
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushraj22&show_icons=true&locale=en&layout=compact" alt="aayushraj22" width="500" height='200'/>
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushraj22&show_icons=true&locale=en" alt="aayushraj22" width="500" height='200' />
-</p>
+<div align='center'>
+  <h2>Engagement</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushraj22&show_icons=true&locale=en&layout=compact&theme=dark" alt="aayushraj22" width="500" height='200'/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aayushraj22&show_icons=true&locale=en&theme=dark" alt="aayushraj22" width="500" height='200' />
+</div>
 
 
