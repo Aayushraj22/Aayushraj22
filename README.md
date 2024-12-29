@@ -2,39 +2,41 @@
 <h3 align="center">🖋️ Aspiring FullStack Developer and Passionate Learner from India.</h3>
 
 - 🌱 Continuously honing my skills in **Backend Technology**.
-- 👨‍💻 Check out [my portfolio](https://ayushrajgupta-portfolio.netlify.app/)
+- 👨‍💻 Check out [My Portfolio](https://ayushrajgupta-portfolio.netlify.app/)
 - 💬 Feel free to reach out about **HTML, CSS, JavaScript, React**
 
 <h2 align='center'>Connect with me:</h3>
 <div align='center'>
-  
-  [![Static Badge](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&logoColor=blue&logoSize=auto&labelColor=white&color=blue&cacheSeconds=3600)](https://www.linkedin.com/in/ayush-raj-5760b61a1/)
-  [![Static Badge](https://img.shields.io/badge/leetcode-white?style=flat-square&logo=leetcode&logoColor=yellow&logoSize=auto&labelColor=white&color=navy&cacheSeconds=3600)](https://leetcode.com/u/Ayush_Raj_22/)
-  
+
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Ayush_Raj_22/)
+  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/ay_raj)
+  [![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/ayush_raj2)
+
+  [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&)](https://www.linkedin.com/in/ayush-raj-5760b61a1/)
 </div>
 <br/>
 
 <h2 align='center'>Tech Stack I am Familiar With:</h3>
 <div align='center'>
+
+  [![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.info)
+  [![react](https://img.shields.io/badge/reactjs-blue?style=for-the-badge&logo=react&logoColor=white)](https://react.dev)
+  [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+  [![express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+  [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
   
-  [![Static Badge](https://img.shields.io/badge/javascript-white?style=flat-square&logo=javascript&logoColor=yellow&logoSize=auto&labelColor=white&color=yellow&cacheSeconds=3600)](https://javascript.info)
-  [![Static Badge](https://img.shields.io/badge/react-blue?style=flat-square&logo=react&logoColor=blue&logoSize=auto&labelColor=white&color=blue&cacheSeconds=3600)](https://react.dev)
-  [![Static Badge](https://img.shields.io/badge/nodejs-green?style=flat-square&logo=nodedotjs&logoColor=darkGreen&logoSize=auto&labelColor=white&color=darkGreen&cacheSeconds=3600)](https://nodejs.org)
-  [![Static Badge](https://img.shields.io/badge/express-white?style=flat-square&logo=express&logoColor=black&logoSize=auto&labelColor=white&color=black&cacheSeconds=3600)](https://expressjs.com/)
-  [![Static Badge](https://img.shields.io/badge/html5-orange?style=flat-square&logo=html5&logoColor=orange&logoSize=auto&labelColor=white&color=orange&cacheSeconds=3600)](https://www.w3schools.com/html/)
+  [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+  [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+  [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
   
-  [![Static Badge](https://img.shields.io/badge/tailwindcss-white?style=flat-square&logo=tailwindcss&logoColor=cyan&logoSize=auto&labelColor=white&color=cyan&cacheSeconds=3600)](https://tailwindcss.com/)
-  [![Static Badge](https://img.shields.io/badge/bootstraph-purple?style=flat-square&logo=bootstrap&logoSize=auto&labelColor=white&color=purple&cacheSeconds=3600)](https://getbootstrap.com/)
-  [![Static Badge](https://img.shields.io/badge/css-blue?style=flat-square&logo=css3&logoColor=blue&logoSize=auto&labelColor=white&color=blue&cacheSeconds=3600)](https://www.w3schools.com/css/)
+  [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+  [![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)](https://firebase.google.com/)
+  [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
   
-  [![Static Badge](https://img.shields.io/badge/mongodb-darkgreen?style=flat-square&logo=mongodb&logoColor=darkgreen&logoSize=auto&labelColor=white&color=darkgreen&cacheSeconds=3600)](https://www.mongodb.com/)
-  [![Static Badge](https://img.shields.io/badge/firebase-yellow?style=flat-square&logo=firebase&logoColor=yellow&logoSize=auto&labelColor=white&color=dodgerblue&cacheSeconds=3600)](https://firebase.google.com/)
-  [![Static Badge](https://img.shields.io/badge/mysql-navy?style=flat-square&logo=mysql&logoColor=navy&logoSize=auto&labelColor=white&color=navy&cacheSeconds=3600)](https://www.mysql.com/)
+  [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+  [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
   
-  [![Static Badge](https://img.shields.io/badge/cpp-blue?style=flat-square&logo=cplusplus&logoColor=blue&logoSize=auto&labelColor=white&color=blue&cacheSeconds=3600)](https://cplusplus.com/)
-  [![Static Badge](https://img.shields.io/badge/git-orange?style=flat-square&logo=git&logoColor=orange&logoSize=auto&labelColor=white&color=orange&cacheSeconds=3600)](https://git-scm.com/)
-  [![Static Badge](https://img.shields.io/badge/postman-orangered?style=flat-square&logo=postman&logoColor=orangered&logoSize=auto&labelColor=white&color=orangered&cacheSeconds=3600)](https://www.postman.com/)
-  
+  [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
 </div>
 <br/>
 <br/>
