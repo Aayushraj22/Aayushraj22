@@ -2,17 +2,17 @@
 <h3 align="center">🖋️ Aspiring FullStack Developer and Passionate Learner from India.</h3>
 
 - 🌱 Continuously honing my skills in **Backend Technology**.
-- 👨‍💻 Check out [My Portfolio](https://ayushrajgupta-portfolio.netlify.app/)
+- 👨‍💻 Check out [![Portfolio](https://img.shields.io/badge/Portfolio-dodgerblue?style=flat&logo=internet-explorer)]([https://your-portfolio-link.com](https://ayushrajgupta-portfolio.netlify.app/))
 - 💬 Feel free to reach out about **HTML, CSS, JavaScript, React**
 
 <h2 align='center'>Connect with me:</h3>
 <div align='center'>
 
-  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Ayush_Raj_22/)
-  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/ay_raj)
-  [![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/ayush_raj2)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Ayush_Raj_22/)
+  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=flat-square&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/ay_raj)
+  [![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=flat-square&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/ayush_raj2)
 
-  [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&)](https://www.linkedin.com/in/ayush-raj-5760b61a1/)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&)](https://www.linkedin.com/in/ayush-raj-5760b61a1/)
 </div>
 <br/>
 
