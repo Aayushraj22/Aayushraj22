@@ -2,7 +2,7 @@
 <h3 align="center">🖋️ Aspiring FullStack Developer and Passionate Learner from India.</h3>
 
 - 🌱 Continuously honing my skills in **Backend Technology**.
-- 👨‍💻 Check out [![Portfolio](https://img.shields.io/badge/Portfolio-dodgerblue?style=flat&logo=internet-explorer)]([https://your-portfolio-link.com](https://ayushrajgupta-portfolio.netlify.app/))
+- 👨‍💻 Check out [![Portfolio](https://img.shields.io/badge/Portfolio-dodgerblue?style=flat&logo=internet-explorer)](https://ayushrajgupta-portfolio.netlify.app/)
 - 💬 Feel free to reach out about **HTML, CSS, JavaScript, React**
 
 <h2 align='center'>Connect with me:</h3>
